@@ -16,3 +16,6 @@ def link
 end
 
 def any_phrase
+    phrase = 'Blah Blah Blah'
+    puts phrase
+  end
