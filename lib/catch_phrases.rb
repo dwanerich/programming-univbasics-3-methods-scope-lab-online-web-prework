@@ -15,8 +15,3 @@ def danger
   phrase = 'It's Dangerous To Go Alone!Take This'
   puts phrase
 end
-
-def any_phrase
-    phrase = 'Blah Blah Blah'
-    puts phrase
-  end
